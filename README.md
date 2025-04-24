@@ -61,8 +61,9 @@ In addition to the typical event properties, Conferences also have a list of Spe
 4. Create a **UML Class Diagram** for one (or both) of the domains above:
 
    - **Association of Nurses**: Show how `Chapter` and `Member` relate.
+   ![img.png](img.png)
    - **Event Management**: Show how `Event`, `Conference`, `Exposition`, `Guest`, and `Speaker` relate.
-
+    ![img_1.png](img_1.png)
    Indicate attributes and methods (even if briefly) and the relationships (e.g., `1..*`, `@OneToMany`, etc.).
 
 5. Export a screenshot or PDF of your diagrams and include them in your repository or attach them to your README. This will help demonstrate your system design before or alongside your code.
